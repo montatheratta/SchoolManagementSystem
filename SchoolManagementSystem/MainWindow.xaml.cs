@@ -105,6 +105,7 @@ namespace SchoolManagementSystem
             {
                 MessageBox.Show("Please enter a curriculum name.");
             }
+            
         }
         private void LoadCurriculums()
         {
